@@ -9,7 +9,6 @@ puts friends.length()
 puts friends.include?"Ronak"
 puts friends.sort()
 
-
 # new array define
 
 # newarray = Array.new

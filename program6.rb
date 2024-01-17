@@ -10,7 +10,6 @@ puts 10%3
 
 num = 20
 puts ("Hello Ronak " + num.to_s) #conver to string "num.to_s" to_s using convert to a string
-
 absulat_var = 202.2
 puts(absulat_var.abs())
 puts(absulat_var.round())
