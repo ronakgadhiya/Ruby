@@ -12,3 +12,5 @@ puts phrase.length()
 puts phrase.downcase()
 puts phrase.strip()
 puts phrase.include? "Ronak" #to check is there or not
+puts phrase.index("C")
+puts
