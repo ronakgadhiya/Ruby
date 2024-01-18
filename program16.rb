@@ -6,9 +6,6 @@
 # end
 
 
-
-
-
 #for loop
 
 friends = ["ronak","yash","amit","abhi","jaydeep"]
