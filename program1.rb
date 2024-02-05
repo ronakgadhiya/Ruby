@@ -7,3 +7,11 @@ p "Hello Ronak" # in this line print with quatation print like "Hello Ronak"
 #   i += 1
 #   redo if i == 5
 # end
+
+
+exm = Array("a"..."z")
+puts "#{exm}"
+
+3.times do |i|
+  puts "#{i}"
+end

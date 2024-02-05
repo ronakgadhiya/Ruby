@@ -1,3 +1,7 @@
+# IT is return to start Of the file
+BEGIN{
+  puts "Question GAME IS STATED NOW"
+}
 class Question
   attr_accessor :prompt, :answer
   def initialize(prompt,answer)
@@ -30,3 +34,9 @@ def run_test(questions)
 end
 
 run_test(questions)
+
+
+# IT is return to End Of the file
+END{
+  puts "Question GAME IS ENDED NOW"
+}
